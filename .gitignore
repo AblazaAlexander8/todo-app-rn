@@ -45,3 +45,4 @@ example
 #bugs
 bugreport**
 pnpm**
+package-lock.json
